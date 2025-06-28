@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 January 2025 - To: 25 June 2025
+From: 17 January 2025 - To: 26 June 2025
 
-Total Time: 325 hrs 41 mins
+Total Time: 327 hrs 58 mins
 
-TypeScript                 271 hrs 42 mins >>>>>>>>>>>>>>>>>>>>-----   81.71 %
-CSS                        8 hrs 11 mins   >------------------------   02.46 %
-Other                      6 hrs 49 mins   >------------------------   02.05 %
+TypeScript                 272 hrs 21 mins >>>>>>>>>>>>>>>>>>>>-----   81.30 %
+CSS                        8 hrs 11 mins   >------------------------   02.44 %
+Other                      7 hrs 1 min     >------------------------   02.10 %
 ```
 
 <!--END_SECTION:waka-->
