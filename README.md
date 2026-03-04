@@ -16,8 +16,8 @@ CSS                        14 hrs 35 mins        -------------------------   01.
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgeorge35&layout=donut&langs_count=5&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paulgeorge35&layout=donut&langs_count=5&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=paulgeorge35&show_icons=true&show=prs_merged&theme=transparent&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=paulgeorge35&show_icons=true&show=prs_merged&theme=synthwave&rank_icon=github" />
 </a>
