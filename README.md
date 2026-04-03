@@ -7,7 +7,7 @@ From: 19 January 2025 - To: 01 April 2026
 Total Time: 914 hrs 5 mins
 
 TSX                        476 hrs 3 mins        >>>>>>>>>>>>>------------   52.09 %
-Typescript                 274 hrs 18 mins       >>>>>>>>-----------------   30.01 %
+Typescript                 274 hrs 19 mins       >>>>>>>>-----------------   30.01 %
 Json                       51 hrs 42 mins        >------------------------   05.66 %
 Prisma                     17 hrs 26 mins        -------------------------   01.91 %
 CSS                        15 hrs 59 mins        -------------------------   01.75 %
