@@ -2,11 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 January 1970 - To: 27 June 2026
+From: 19 January 2025 - To: 26 June 2026
 
-Total Time: 0 hrs 0 mins
+Total Time: 960 hrs 53 mins
 
-No activity tracked
+TSX                        482 hrs 31 mins       >>>>>>>>>>>>>------------   50.23 %
+Typescript                 295 hrs 16 mins       >>>>>>>>-----------------   30.73 %
+Json                       55 hrs 52 mins        >------------------------   05.81 %
+Prisma                     20 hrs 19 mins        >------------------------   02.12 %
+Bash                       16 hrs 54 mins        -------------------------   01.76 %
 ```
 
 <!--END_SECTION:waka-->
