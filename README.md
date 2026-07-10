@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 January 2025 - To: 08 July 2026
+From: 19 January 2025 - To: 10 July 2026
 
-Total Time: 983 hrs 0 mins
+Total Time: 983 hrs 48 mins
 
-TSX                        485 hrs 54 mins       >>>>>>>>>>>>-------------   49.44 %
-Typescript                 299 hrs 56 mins       >>>>>>>>-----------------   30.52 %
-Json                       57 hrs 57 mins        >------------------------   05.90 %
+TSX                        486 hrs 9 mins        >>>>>>>>>>>>-------------   49.42 %
+Typescript                 299 hrs 59 mins       >>>>>>>>-----------------   30.50 %
+Json                       58 hrs 0 mins         >------------------------   05.90 %
 Prisma                     20 hrs 9 mins         >------------------------   02.05 %
-Bash                       17 hrs 23 mins        -------------------------   01.77 %
+Bash                       17 hrs 31 mins        -------------------------   01.78 %
 ```
 
 <!--END_SECTION:waka-->
