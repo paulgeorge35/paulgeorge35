@@ -6,8 +6,8 @@ From: 19 January 2025 - To: 21 August 2026
 
 Total Time: 1048 hrs 5 mins
 
-TSX                        503 hrs 52 mins       >>>>>>>>>>>>-------------   48.08 %
-Typescript                 318 hrs 24 mins       >>>>>>>>-----------------   30.38 %
+TSX                        503 hrs 53 mins       >>>>>>>>>>>>-------------   48.09 %
+Typescript                 318 hrs 23 mins       >>>>>>>>-----------------   30.38 %
 Json                       63 hrs 54 mins        >>-----------------------   06.10 %
 Unknown                    24 hrs 23 mins        >------------------------   02.33 %
 Bash                       20 hrs 15 mins        -------------------------   01.93 %
