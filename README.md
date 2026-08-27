@@ -4,12 +4,12 @@
 ```rust
 From: 19 January 2025 - To: 25 August 2026
 
-Total Time: 1049 hrs 16 mins
+Total Time: 1049 hrs 21 mins
 
-TSX                        504 hrs 22 mins       >>>>>>>>>>>>-------------   48.08 %
-Typescript                 318 hrs 24 mins       >>>>>>>>-----------------   30.35 %
+TSX                        504 hrs 26 mins       >>>>>>>>>>>>-------------   48.08 %
+Typescript                 318 hrs 25 mins       >>>>>>>>-----------------   30.35 %
 Json                       63 hrs 54 mins        >>-----------------------   06.09 %
-Unknown                    25 hrs 0 mins         >------------------------   02.38 %
+Unknown                    24 hrs 59 mins        >------------------------   02.38 %
 Bash                       20 hrs 19 mins        -------------------------   01.94 %
 ```
 
